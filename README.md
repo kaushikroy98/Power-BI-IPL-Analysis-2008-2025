@@ -1,6 +1,6 @@
 # Power-BI-IPL-Analysis-2008-2025
 
-##IPL Analysis Dashboard (2008–2025) - Power BI Project
+IPL Analysis Dashboard (2008–2025) - Power BI Project
 
 This Power BI project provides an in-depth and interactive analysis of the Indian Premier League (IPL) seasons from **2008 to 2025**, offering rich visualizations and performance insights into teams, players, and seasonal trends.
 
@@ -125,7 +125,7 @@ Each team's seasonal performance includes:
 
 ## 📸 Dashboard Snapshots
 
-![App Screenshot](./screenshot.png)
+![App Screenshot]([./screenshot.png](https://github.com/kaushikroy98/Power-BI-IPL-Analysis-2008-2025/blob/main/Dashboard%20Image.png))
 
 ---
 
