@@ -125,7 +125,8 @@ Each team's seasonal performance includes:
 
 ## 📸 Dashboard Snapshots
 
-![App Screenshot]([./screenshot.png](https://github.com/kaushikroy98/Power-BI-IPL-Analysis-2008-2025/blob/main/Dashboard%20Image.png))
+
+![Dashboard](https://github.com/kaushikroy98/Power-BI-IPL-Analysis-2008-2025/blob/main/Dashboard%20Image.png)
 
 ---
 
