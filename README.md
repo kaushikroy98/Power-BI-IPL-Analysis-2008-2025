@@ -15,6 +15,13 @@ The primary objective of this project is to create an **dynamic interactive Powe
 - Enable **dynamic updates** of logos, team/player images, and values based on selected seasons
 
 ---
+## 📸 Dashboard Snapshots
+
+
+![Dashboard](https://github.com/kaushikroy98/Power-BI-IPL-Analysis-2008-2025/blob/main/Dashboard%20Image.png)
+
+
+---
 
 ## 📁 Project Files
 
@@ -120,13 +127,6 @@ Each team's seasonal performance includes:
 - Business intelligence demo for sports tournaments
 - Internship/job project showcase for data/BI roles
 - Learning Power BI dashboard design and dynamic DAX
-
----
-
-## 📸 Dashboard Snapshots
-
-
-![Dashboard](https://github.com/kaushikroy98/Power-BI-IPL-Analysis-2008-2025/blob/main/Dashboard%20Image.png)
 
 ---
 
