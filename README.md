@@ -143,3 +143,6 @@ If you found this project helpful:
 - Star 🌟 the repo
 - Share it with fellow learners
 - Fork it and try your own customizations!
+
+**Note:** The `ipl_matches_data.csv` dataset is missing data for 3 matches in the 2024 season.
+
